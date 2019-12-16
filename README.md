@@ -4,8 +4,8 @@
 
 ![](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
-![](https://img.shields.io/badge/release-1.1.12-red.svg?style=flat)
-![](https://img.shields.io/badge/Android-4.0%20--%209.0-blue.svg?style=flat)
+![](https://img.shields.io/badge/release-1.2.0-red.svg?style=flat)
+![](https://img.shields.io/badge/Android-4.0%20--%2010-blue.svg?style=flat)
 ![](https://img.shields.io/badge/arch-armeabi%20%7C%20armeabi--v7a%20%7C%20arm64--v8a%20%7C%20x86%20%7C%20x86__64-blue.svg?style=flat)
 
 [README 中文版](README.zh-CN.md)
@@ -19,7 +19,7 @@ xHook has been keeping optimized for stability and compatibility.
 
 ## Features
 
-* Support Android 4.0 - 9.0 (API level 14 - 28).
+* Support Android 4.0 - 10 (API level 14 - 29).
 * Support armeabi, armeabi-v7a, arm64-v8a, x86 and x86_64.
 * Support **ELF HASH** and **GNU HASH** indexed symbols.
 * Support **SLEB128** encoded relocation info.
@@ -183,10 +183,9 @@ xhook_refresh(1);
 1. Check the [xhook-sample](libbiz/jni).
 2. Communicate on [GitHub issues](https://github.com/iqiyi/xHook/issues).
 3. Mail: <a href="mailto:caikelun@gmail.com">caikelun@gmail.com</a>
-4. WeChat: alan_choi
-5. QQ group: 603635869. QR code:
+4. QQ group: 603635869. QR code:
 
-<p align="left"><img src="docs/qq_group.jpeg" alt="qq group" width="300px"></p>
+<p align="left"><img src="docs/qq_group.jpg" alt="qq group" width="300px"></p>
 
 
 ## Contributing
